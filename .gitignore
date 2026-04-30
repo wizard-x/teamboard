@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+src/frontend/node_modules/
+
+# Build output
+bin/
+dist/
+src/frontend/dist/
+src/backend/cmd/server/static/assets/
+src/backend/cmd/server/static/index.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Coverage
+coverage.out
+
+# Pi agent
+.pi/
